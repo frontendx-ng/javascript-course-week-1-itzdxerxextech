@@ -1,7 +1,7 @@
 # FrontendX JavaScript Track - Week 1
 
 ## Instructions
-- Clone this repository - [See Guide](https://help.github.com/articles/cloning-a-repository/)
+- To create your respository for this assignment, **follow the assignment invite link sent to you**.
 
 - Create a new file for a set of 5 questions, with the file name format as `questions-1-5.js`. This would result in `7 files`.
  
