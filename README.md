@@ -1,4 +1,4 @@
-# FrontendX JavaScript Track - Week 1
+# FrontendX JavaScript Track
 
 ## Instructions
 - To create your respository for this assignment, **follow the assignment invite link sent to you**.
