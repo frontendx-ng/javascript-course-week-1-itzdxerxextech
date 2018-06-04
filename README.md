@@ -9,7 +9,7 @@
 
 - Please ask your questions in the #Javascript channel [FrontendX slack group], for faster response and so everyone can learn from them.
    
-=======================
+
 
 ## Tutorial Questions
 
