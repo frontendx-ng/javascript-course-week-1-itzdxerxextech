@@ -3,6 +3,8 @@
 ## Instructions
 - To create your respository for this assignment, **follow the assignment invite link sent to you**.
 
+- Switch to the **`week-x`** branch to view the associated assigment materials. *(Where x is the week numnber.)*
+
 - Create a new file for a set of 5 questions, with the file name format as `questions-1-5.js`. This would result in `7 files`.
  
 - Using the tutorial materials provided [here](https://javascript.info/), as well as from around the web, complete the following exercises by outputing to your developer console - [See Guide](https://developer.mozilla.org/en-US/docs/Web/API/Console/log)
